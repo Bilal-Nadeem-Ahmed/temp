@@ -4,7 +4,7 @@
     <p>
       For a guide on how to get to a million quid in a week,<br>
       check out the
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener">vue-cli documentation</a>.
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener">thing!</a>.
     </p>
     
   </div>
